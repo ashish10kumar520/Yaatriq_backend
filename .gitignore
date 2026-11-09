@@ -1,0 +1,22 @@
+# React
+node_modules/
+dist/
+.env
+.env.*
+
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Secrets
+application-local.properties
